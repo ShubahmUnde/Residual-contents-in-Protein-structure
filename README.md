@@ -4,13 +4,8 @@ supervised machine learning
 Data is about Protine 
 finding the prediction of RMSD of protine
 #To Reduce the Mean Square Error ,we introduced other Ensembels models also
-#Results are
-Model         MSE
- LR	        27.355000
- DT	        27.960000
- RF	        17.778000
- kNN	      48.708546
- SVM-linear	29.746000
- SVM-rbf	  26.516000 
- SVM-poly	  46.746000
- SVM-sig	  2957.079000
+#others model used 1) Linear regression
+                   2) Decision tree
+                   3) Random Forest
+                   4) K nearest neigbours
+                   5) SVM regressor
